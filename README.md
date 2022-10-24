@@ -27,14 +27,14 @@
 
 ## Pycharm
 #### - https://www.jetbrains.com/pycharm/
-![Gambar1](gambar/pic5.png)
+![Gambar1](gambar/pic5.jpeg)
 
 ## Virtual Environment (Venv)
-![Gambar1](gambar/pic7.png)
+![Gambar1](gambar/pic7.jpeg)
 
 ## Menambahkan File Baru
 #### - main.py
-![Gambar1](gambar/pic8.png)
+![Gambar1](gambar/pic8.jpeg)
 
 ## Menjalankan Program
-![Gambar1](gambar/pic6.png)
+![Gambar1](gambar/pic6.jpeg)
