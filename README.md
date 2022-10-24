@@ -23,7 +23,7 @@
 #### - Menggunakan fungsi input untuk mengambil nilai variabel dari keyboard.
 ![Gambar1](gam/pic3.jpg)
 
-![Gambar1](gambar/pic4.jpeg)
+![Gambar1](gam/pic4.jpeg)
 
 ## Pycharm
 #### - https://www.jetbrains.com/pycharm/
