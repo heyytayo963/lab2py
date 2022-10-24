@@ -34,7 +34,7 @@
 
 ## Menambahkan File Baru
 #### - main.py
-![Gambar1](gam/pic8.jpeg)
+![Gambar1](gam/pic7.jpeg)
 
 ## Menjalankan Program
-![Gambar1](gam/pic7.jpeg)
+![Gambar1](gam/pic8.jpeg)
