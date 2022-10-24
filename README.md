@@ -21,9 +21,9 @@
 #### - Menjalankan IDLE
 #### - Membuat file baru dengan nama latihan3.py (pastikan lokasi file pada folder lab2py pada direktori kerja anda)
 #### - Menggunakan fungsi input untuk mengambil nilai variabel dari keyboard.
-![Gambar1](gambar/pic3.png)
+![Gambar1](gambar/pic3.jpg)
 
-![Gambar1](gambar/pic4.png)
+![Gambar1](gambar/pic4.jpeg)
 
 ## Pycharm
 #### - https://www.jetbrains.com/pycharm/
